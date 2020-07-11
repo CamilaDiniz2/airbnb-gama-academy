@@ -1,12 +1,13 @@
 .card {
   opacity: 0.9;
   cursor: pointer;
+  border-radius: 8px;
 }
 
 .card:hover {
   opacity: 1;
-  width: 100.5%;
-  background-color: #dfdbdb;
+  background-color: #f3ffff;
+  box-shadow: 5px 5px 2px #dbd9d9;
 }
 
 .card-body {
