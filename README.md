@@ -56,4 +56,4 @@ Para esta finalidade foram utilizadas as seguintes ferramentas/comandos:
 
 Algumas modificações no CSS também foram realizadas, o resultado final é mostrado abaixo:
 
-<img src='src/final.gif' width ="400px"/>
+<img src='src/final.gif'/>
