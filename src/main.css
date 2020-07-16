@@ -6,12 +6,11 @@
 
 .card:hover {
   opacity: 1;
-  background-color: #f5f1f1;
-  box-shadow: 5px 5px 2px #dbd9d9;
+  box-shadow: 6px 6px 4px #bebebe;
 
   position: relative;
-  top: -4px;
-  left: -4px;
+  top: -8px;
+  left: -8px;
 }
 
 .card-body {

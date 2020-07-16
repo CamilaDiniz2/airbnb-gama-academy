@@ -54,6 +54,6 @@ Para esta finalidade foram utilizadas as seguintes ferramentas/comandos:
 - desestruturação
 - manipulação HTML com Javascript
 
-Algumas modificações no CSS também foram realizadas, o resultado final pode ser visto na figura abaixo.
+Algumas modificações no CSS também foram realizadas, o resultado final é mostrado abaixo:
 
-<img src="./src/tela-final.png" alt="et" align="center">
+<img src='src/final.gif' width ="400px"/>
